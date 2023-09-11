@@ -2,7 +2,7 @@
 In this I implimeted two graph clustring algorithms, one is scpectral decomposition based normalised cut algorithm , another one is one iteration of phase one of louvain algorithm on facebook dataset.  
   
 clustring result by Ncut method   
-Cluster ID: 0 &nbsp;&nbsp;&nbsp;number of nodes: 346  
+Cluster ID: 0 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;number of nodes: 346  
 Cluster ID: 136 &nbsp;number of nodes: 753  
 Cluster ID: 107 &nbsp;number of nodes: 969  
 Cluster ID: 348 &nbsp;number of nodes: 368  
