@@ -2,14 +2,14 @@
 In this I implimeted two graph clustring algorithms, one is scpectral decomposition based normalised cut algorithm , another one is one iteration of phase one of louvain algorithm on facebook dataset.  
   
 clustring result by Ncut method   
-Cluster ID: 0     number of nodes: 346  
-Cluster ID: 136   number of nodes: 753  
-Cluster ID: 107   number of nodes: 969  
-Cluster ID: 348   number of nodes: 368  
-Cluster ID: 990   number of nodes: 788  
-Cluster ID: 594   number of nodes: 61  
-Cluster ID: 686   number of nodes: 208  
-Cluster ID: 857   number of nodes: 546  
+Cluster ID: 0 &nbsp;&nbsp;&nbsp;number of nodes: 346  
+Cluster ID: 136 &nbsp;number of nodes: 753  
+Cluster ID: 107 &nbsp;number of nodes: 969  
+Cluster ID: 348 &nbsp;number of nodes: 368  
+Cluster ID: 990 &nbsp;number of nodes: 788  
+Cluster ID: 594 &nbsp;number of nodes: 61  
+Cluster ID: 686 &nbsp;number of nodes: 208  
+Cluster ID: 857 &nbsp;number of nodes: 546  
 Total number of clusters: 8  
 Final modularity: 0.7350774592609038  
 Time taken for clustring: 110.45757603645325  (s)  
